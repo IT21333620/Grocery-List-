@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">testApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_grocery">Add Grocery</string>
+    <string name="wish_list">My Wish List</string>
+    <string name="purchased">Purchased</string>
+</resources>
